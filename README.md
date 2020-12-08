@@ -4,8 +4,8 @@
 
 ## 个人信息 
 
-* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：25  
-* 手 机：134XXXX3216 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：XXXXX@XXX.com    
+* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：29  
+* 手 机：136XXXX9152 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：XXXXX@XXX.com    
 * 专 业：计算机科学与计算 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：研发工程师
 
 ## 工作及教育经历
@@ -16,19 +16,19 @@
 
 ## 专业技能
 
-* 熟练使用 C++，掌握Go，了解 Java、Python、PHP 等编程语言
+* 熟练使用 C/C++，了解 Java、Python等编程语言
 * 掌握基础数据结构和算法的基本原理
 * 等等
 
 ## 项目经历
 
-1. 公司/学校 - XXweb服务器 - 独立开发 - 201508- 201512 
+1. 安卓平台开发- 2017/05- 2019/07 
     * 具体功能 
     * 运用了那些技术，技术难点是
     * 效果如何
     * demo演示地址，github地址 
 
-2. 公司/学校 - XX游戏 - 负责后端开发 - 201309- 201401 
+2.ADAS bootloader开发 - 2019/07- present 
     * 具体功能 
     * 运用了那些技术，技术难点是
     * 效果如何
@@ -45,10 +45,5 @@
 
 ## 其他信息 
 * 喜欢钻研技术 等等
-* 性格开朗，喜欢跳舞，做个主持人 等等 
+* 喜欢运动等等 
 
-> 简历的word版本，可以在我的公众号[代码随想录](https://img-blog.csdnimg.cn/20200815195519696.png)中，后台回复：「简历模板」来获取
-
-> leetcode刷题攻略：https://github.com/youngyangyang04/leetcode-master 
-
-> C++后台研发知识图谱：https://github.com/youngyangyang04/TechCPP
